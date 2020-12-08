@@ -1,5 +1,5 @@
 # Audiobook
-A machine learning project for predicting custumer conversion on an fantasy Audiobook company.
+A machine learning project for predicting customer conversion on an fantasy Audiobook company.
 
 The purpose of this project is the build and model a machine learning algorithm based on neural networks that is able to predict whether the customer will buy again an audiobook.
 For that, we have gathered data on various aspects of the client behavior with the product, which will be contain on the file "Audiobooks_data.csv".
